@@ -1,0 +1,32 @@
+Report #5: Comparative Analysis of Visualization Tools
+
+In this report, I critically compare advantages, disadvantages, and ethics of select toolsets and methods of visualization and narrative creation in DH while engaging with and challenging critical ideas raised by related readings.
+
+Visualization tools impose frameworks with predetermined parameters, constraints, and implications in their design that Graham argues require intention, transparency, applied theory, and critical analysis by digital humanists.
+
+Evaluating the ethics of the toolsets explored for this report, all embed westernized storytelling mechanisms and colonized understructures. Each has distinct accessibility configurations. Pen-to-paper is limited in being read by assistive technologies, can’t be automatically translated, and restricts interactive discoverability. StoryMap and GeoJSON are more web accessible and use smaller file sizes but require internet and browsers and can be less accessible for creators. GitHub is proprietary, centralized and has monopoly as a code host.
+
+Graham states frameworks inform artifacts’ configurations, evident with StoryMap and GeoJSON, which prioritize geo-spatial data. Although, it’s GeoJSON’s primary reliance whereas StoryMap embeds an additional sequential significance to visualizations. GeoJSON and GitHub are technically involved but can offer more creator control and customization with training. I found GeoJSON to be limiting with entry level knowledge. I couldn’t make two data points with the same coordinates both selectable, for example. Arguably, GeoJSON allows for more viewer discoverability, opening possibilities for alternative interpretations, while StoryMap’s sequential focus encourages a visual narrative Segel and Heer explain is based on devices that direct the viewer’s attention. StoryMap offers easy creation, but constraints and limits creators to a specific storytelling most appropriate for spatial data with sequential significance. Pen-to-paper restricts viewer interactive discoverability and imposes constraints on creators according to their access to marking tools and physical and technical drawing ability.
+
+In the act of making visualizations, aside from curating a set and order of data to illustrate a specific narrative, I was primarily focused on data entry and technical proficiency with GeoJSON, GitHub, and StoryMap. This was truer with GeoJSON than Storymap which allowed for some discovery in the act of making because it was less technically focused. Initially frustrated by pen-to-paper, I realized I was subconsciously influenced by boundaries prior toolsets imposed. Once I shed literal comparisons and limiting notions of maps, I became more inquisitive during the act of making. The embodied exercise offered space for curiosity and reflection. I questioned my self-imposed limitations in forefronting photographic data when I found it limiting in conveying the effects of the Coronavirus and why I carried over a geo-spacial focus if it seemingly had less significance in my observations. 
+
+In diverging and becoming less task-focused while drawing, new questions and considerations emerged. I began grouping data in different ways and contexts, grew curious about the relationship between visual evidence and setting, categorized visual evidence, and discovered a correlation between category and setting. I reflected on the timeline of the disappearance or appearance of visual evidence and noted that it corresponded with the start of the academic year. I began exploring possible patterns between the smaller scale and the larger scale.
+
+Graham’s statement “… audiences often believe that data visualization is a discovery tool, whereas often data visualization serves instead to refine arguments already made …” immediately struck me as counter to arguments in prior readings about digital humanists as makers and discovery through process. Making visualizations was a discovery tool for my own research, at minimum, and Segel and Heer considered “story discovery on the part of the reader (often through interactive exploration)” in their data visualization review. In story discovery, readers can co-create or diverge into their own interpretations and arguments which I considered possible with Gilded Age Plains City.
+
+—
+Works Cited
+
+Elyse Graham (2017) Introduction: Data Visualisation and the Humanities, English Studies, 98:5, 449-458, DOI: 10.1080/0013838X.2017.1332021.
+
+Segel, E., Heer, J. 2010. Narrative visualization: telling stories with data. IEEE Transactions on Visualization and Computer Graphics 16(6): 1139-1148.
+
+—
+Terms of Use
+
+Anti-copyright. The author of this work hereby waives all claim of copyright in this work and immediately places it in the public domain; it may be used, distorted or destroyed in any manner whatsoever without further attribution or notice to the creator.
+
+—
+Cite This Work
+
+Durham, Ella. Fractal Studies in the Age of COVID-19, 24 Nov. 2020, edurham877.wordpress.com/.

@@ -1,0 +1,32 @@
+Process
+
+This iterative project is informed by engaging with a set of critical Digital Humanities readings and websites and, in turn, formed though applying the knowledge gained in reading and reflection through a cyclical, field-based praxis to develop a DH publication.
+
+The modular publication approach, bringing together work and experimentation with Digital Humanities tools to take the form of sets of interconnected reports which culminated into a series of publications, made it possible to engage in critical DH theory and practice with limited resources or the reliance of a development team or extensive coding skills. Components that were integrated into this project were first completed offline and then brought together in the publication with the focus falling on developing the form of publication itself. The conceptually-integrated projects built upon and extended the previous works. The first three reports were brought together for the first publication, the second three reports constituted the second publication which in turn extended the first publication and so on.
+
+This form practices minimal computing methodologies Risam and Edwards describe as “micro digital humanities” in creating small-scale DH projects over the semester which culminate to a larger individual and collective body of work in a similar fashion to Digital Salem. It also falls under several of Sayers minimal definitions: minimal maintenance, minimal barriers, minimal exteriors, minimal technical language. Additionally, it centers the act of making in theory and practice which Hunter et al. argue digital humanists have a responsibility to reclaim. 
+
+Concretely, the materials, tools, and infrastructure used to make this project and its supporting materials are as follows: paper, pens, markers, cell phone, computer, Excel, Sublime Text, Photoshop, Internet Browsers, WordPress.com, Omeka.net, StoryMap, Voyant, Code.org, YouTube, GitHub, Internet, GPS, and cellular data.
+
+WordPress.com, Omeka.net, StoryMap, and YouTube are the primary web publishing tools used. GitHub serves as a text and data repository. I used Excel, Sublime Text, and Photoshop for data, text, and image processing but there are several alternate options for each. Voyant and Code.org were used in exploratory exercises and the other physical materials and infrastructures are often personal tools or widely available for use at public libraries. 
+
+While there are considerable ethical, social-justice, and life-cycle based questions to evaluate these tools and methods, this stack and approach serves as an initiation point for continued or future development.
+
+—
+Works Cited
+
+Hunter, John, et al. “Reifying the Maker as Humanist.” Making Things and Drawing Boundaries. University of Minnesota Press, 2017.
+
+Risam, Roopika and Edwards, Susan. “Micro DH: Digital Humanities at the Small Scale.” DH (2017).
+
+Sayers, Jentry, “Minimal Definitions,” Minimal Computing: A Working Group of GO::DH (2016), https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/
+
+—
+Terms of Use
+
+Anti-copyright. The author of this work hereby waives all claim of copyright in this work and immediately places it in the public domain; it may be used, distorted or destroyed in any manner whatsoever without further attribution or notice to the creator.
+
+—
+Cite This Work
+
+Durham, Ella. Fractal Studies in the Age of COVID-19, 24 Nov. 2020, edurham877.wordpress.com/.

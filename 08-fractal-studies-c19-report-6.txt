@@ -1,0 +1,30 @@
+Report #6: Documenting Impact
+
+This report builds off of Report #4 and Report #5 in focusing on data collection and development by continuing to observe and reflect on how the Coronavirus pandemic is impacting my neighbors and neighborhood. Incorporating the exercises explored in this process, I take the data from this report and create new interpretations through StoryMap and analog visualizations.
+
+Photo Documentation
+
+In building progression through the process of this project, this report initially echoed Report #3 in documenting the visual evidence of the impacts of the Coronavirus pandemic. However, these observation are now reflecting a scale up to ‘neighbors and neighborhood.’ As with Report #3, all of these images and their corresponding metadata can be accessed in the project archives.
+
+StoryMap Visual Narrative
+
+Using StoryMap to publish this collected data wasn’t my initial inclination since the data didn’t have an obvious sequential significance and StoryMap centers storytelling around sequence. However, my interpretations and readings didn’t have a strong geo-spatial significance either. It was ultimately the process of returning to digital toolsets after creating analog visualizations that made me reconsider the merits of StoryMap for this application. While the data didn’t have a strong sequential significance, the storytelling device of directing attention through framing and transition enabled a stronger analogy between the digital and analog visual narratives. Order in the visual evidence I encountered was more interesting in the digital after finding correlations between setting and status of evidence in the analog because they resembled each other. Through the use of custom markers, I was able to make reference to the broader themes I’m drawn to by assigning each point a categorical setting. Additionally, incorporating written narrative in each frame allowed the representation of soft data like memories of previously visible evidence and feelings and impressions I noticed during the process of documentation. Overall, StoryMap proved useful in pushing beyond limitations I found in photo-documented evidence and in connecting to the analog visualizations. 
+
+Analog Visualizations
+
+Incorporating analog, pen-to-paper visualizations as part of this report admittedly required a bypass of a mental hurdle in considering the boundaries of what counts as digital humanities scholarship. I often return to essays that inform the early process of this project which argue digital humanists as makers and the process of making is scholarship. The embodied act of drawing visualizations prompted inquisition and advanced critical reflection. It’s unlikely I would have contemplated various accessory aspects of this data without this exercise. Segel and Heer reference a quote by Jonathan Harris on identifying as a storyteller first, “Really, the data is just part of the story. The human stuff is the main stuff, and the data should enrich it.” These pen-to-paper readings prioritize the human of digital humanities both in their truer articulation of my observation and analysis and in the subject matter of the drawings themselves. As evident by the second iteration of the accompanying StoryMap, working pen-to-paper influenced a more creative and applicable digital visual narrative. Furthermore, this exercise reinforces themes around minimal computing, access, and working small which are woven throughout the progression of this project. Playing an essential role, its inclusion DH project is solidly justified.
+
+—
+Works Cited
+
+Segel, E., Heer, J. 2010. Narrative visualization: telling stories with data. IEEE Transactions on Visualization and Computer Graphics 16(6): 1139-1148.
+
+—
+Terms of Use
+
+Anti-copyright. The author of this work hereby waives all claim of copyright in this work and immediately places it in the public domain; it may be used, distorted or destroyed in any manner whatsoever without further attribution or notice to the creator.
+
+—
+Cite This Work
+
+Durham, Ella. Fractal Studies in the Age of COVID-19, 24 Nov. 2020, edurham877.wordpress.com/.

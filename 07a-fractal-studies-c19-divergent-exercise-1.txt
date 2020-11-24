@@ -1,0 +1,24 @@
+Divergent Exploration #1
+
+Exploring video games as academic research in the digital humanities in response to Coltrain and Ramsay’s reading “Can Video Games Be Humanities Scholarship?” In this, I take a detour to apply and explore the arguments presented within the framework of this larger project.
+
+With disparate subject matters and limitations in programmatic commands and events, I found it challenging to create a game that would draw meaningful conceptual connections that “lead towards scholarly outcomes” which Coltrain and Ramsay argue necessary to give video games merit as digital humanities research.
+
+The game I created centered around the event of touching obstacles, representing the risk of COVID-19 surface transmission. Risk of surface transmission was unclear early on and there are still unknowns in which surfaces maintain virus particles and for how long, if they are even contaminated at all. When an obstacle is touched, a random character and a Rebel Pilot appear. The Rebel Pilot represents precautions like washing hands and other characters each represent anxieties, circumstances, or confusions. Points are gained when a precaution is taken but the game ends in a loss if a Stormtrooper, representing the Coronavirus, is encountered. The pace begins slowly but escalates and Stormtroopers significantly multiply at the end.
+
+Ultimately, I appreciated the creativity demanded by the imitations and parameters of this exercise. They provoked divergent reflections that benefit my process, research, and analysis by stepping away from assumptions and reframing my focus in previous readings and conclusions I’d drawn.
+
+—
+Works Cited
+
+COLTRAIN, JAMES, and STEPHEN RAMSAY. “Can Video Games Be Humanities Scholarship?” Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, Minneapolis; London, 2019, pp. 36–45.
+
+—
+Terms of Use
+
+Anti-copyright. The author of this work hereby waives all claim of copyright in this work and immediately places it in the public domain; it may be used, distorted or destroyed in any manner whatsoever without further attribution or notice to the creator.
+
+—
+Cite This Work
+
+Durham, Ella. Fractal Studies in the Age of COVID-19, 24 Nov. 2020, edurham877.wordpress.com/.
