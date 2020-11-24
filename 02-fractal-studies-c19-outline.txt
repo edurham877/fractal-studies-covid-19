@@ -8,7 +8,8 @@ Outline
 	• Report #3: Ten Images/Metadata Overview of data collection and development to further observe on how the Coronavirus pandemic is impacting my self and home. 
 	• Report #4: Neighbors and Neighborhood in the Coronavirus Age Observations and reflections on the impacts of the Coronavirus pandemic on the larger scale of ‘neighbors and neighborhood.’ 
 	• Report#5: Comparative Analysis of Visualization Tools Critical comparison of the advantages, disadvantages, and ethics of select toolsets and methods of visualization and narrative creation in DH projects.
-		◦ Divergent Exercise #1: Video Games as Research 
+		◦ Divergent Exercise #1: Video Games as Research
+		◦ Divergent Exercise #1: Basic Text Analysis 
 	• Report #6: Documenting Impact Building on previous reports to focus on data collection and development in observation of impacts on my neighbors and neighborhood.
 
 —
