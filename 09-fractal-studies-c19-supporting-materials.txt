@@ -4,12 +4,15 @@ Extensions and components developed as part of the process in creating Fractal S
 
 Omeka Archive
 Image and data archives of photo-documented observations built with Omeka.net. 
+Using Omeka.net as a tool to create an image and metadata archive for this project allowed me to learn and experiment with a Digital Humanities tool I was previously unfamiliar with. Omeka.net’s DH roots, ethics, and use of Dublin Core to standardize metadata were what drove me to choose this tool. 
 
 StoryMap
 Exploring data collected for Report #6: Documenting Impact as published in StoryMap. 
+When considering visualization tools for critically enhancing this project, I ultimately chose to explore StoryMap because of its storytelling device of framing and transition which helped create a stronger analogy between the digital and analog visual narratives.
 
 Analog Visualizations
 Critically enhancing Report #6: Documenting Impact with analog visualizations.
+These analog readings prioritize the human of digital humanities both in their truer articulation of my observation and analysis and in the subject matter of the drawings themselves. Working pen-to-paper influenced a more creative and applicable digital visual narrative and played an essential role in advancing critical reflection and analysis.
 
 —
 Terms of Use
